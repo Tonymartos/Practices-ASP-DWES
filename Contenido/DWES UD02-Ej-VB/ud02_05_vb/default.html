@@ -1,0 +1,24 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+    <h2>Formulario método POST</h2>
+    <form name="miForm" action="respuesta.aspx" method="post">
+        Dni:<input name="TBdniHtml" type="text" size="8"/>
+        Letra:<input name="TBletraHtml" type="text" size="1"/>
+              <input name="BTenviarHtml" type="submit" value="Enviar"/>
+    </form>
+    <br />
+    <hr />
+    <h2>Formulario método GET</h2>
+    <form name="miForm" action="respuesta.aspx" method="get">
+        Dni:<input name="TBdniHtml" type="text" size="8"/>
+        Letra:<input name="TBletraHtml" type="text" size="1"/>
+              <input name="BTenviarHtml" type="submit" value="Enviar"/>
+    </form>
+    <hr />
+    <h2>Cadena de consulta</h2>
+    <a id="enlace" href="respuesta.aspx?TBdniHtml=26100100&TBletraHtml=E">Pruebe la validez del NIF:26100100E</a>
+</body>
+</html>

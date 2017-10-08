@@ -1,0 +1,9 @@
+1º Creación de un sitio web
+
+2ºAgregar referencias net framework system.numeric
+
+3ºAgregar un archivo de clase app_code
+
+4ºAgregar una pagina aspx para calcular las soluciones de una ecuación de segundo grado default.aspx
+	
+5ºModificar el método compartido Imprimir para presetar el resultado redondeado.

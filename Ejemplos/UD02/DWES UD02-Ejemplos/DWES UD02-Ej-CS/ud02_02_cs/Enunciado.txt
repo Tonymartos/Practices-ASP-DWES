@@ -1,0 +1,8 @@
+﻿1. Sintaxis de página -identificación de los elementos de una página Web ASP.NET-
+2. Directiva @Page 
+3. Bloque de representación de código -inserción de código en el marcado-
+4. Comentarios
+5. Elementos HTML
+6. Controles de servidor Web
+7. Objetos intrínsecos
+

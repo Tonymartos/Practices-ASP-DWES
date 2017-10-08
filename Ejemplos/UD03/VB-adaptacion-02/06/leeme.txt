@@ -1,0 +1,7 @@
+﻿
+Estructura Vector3D
+.NET Framework (current version)
+Representa un desplazamiento en 3D espacio.
+Espacio de nombres:   System.Windows.Media.Media3D
+Agregar referencia
+Ensamblado:  PresentationCore (en PresentationCore.dll) 

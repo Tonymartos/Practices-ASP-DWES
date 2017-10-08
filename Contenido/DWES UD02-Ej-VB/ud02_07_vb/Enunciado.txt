@@ -1,0 +1,6 @@
+
+Programar Controles. Código en el servidor.
+
+1. Devolución de la página al servidor.
+2. Enlace de métodos a ciertos eventos.
+3. Determinación del control que causó el evento.

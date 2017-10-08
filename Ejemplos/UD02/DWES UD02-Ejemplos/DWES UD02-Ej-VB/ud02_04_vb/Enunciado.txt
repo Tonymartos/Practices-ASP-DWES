@@ -1,0 +1,4 @@
+﻿1. Modelos de programación: Modelo de código subyacente.
+2. Separación de la presentación y de la lógica del negocio.
+3. Eventos de controles de servidor. Manejadores de eventos. Argumentos de los eventos (delegados).
+4. Propiedad de controles: Vg. AutoPostBack.

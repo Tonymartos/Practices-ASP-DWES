@@ -1,0 +1,14 @@
+﻿1. Creación de un sitio Web vacío
+2. Organización y configuración de un sitio Web - Web.config -
+3. Carpetas App_Code, App_Data y Bin. 
+	Si el ensamblado se sitúa en las carpetas adecuadas no es preciso registrarlo.
+	La librería de enlace dinámico se ha compilado con: vbc.exe /target:library Consultas.vb
+4. Coexistencia de código confeccionado en distintos lenguajes.
+	Todo el contenido de una carpeta se considera que está confeccionado en el mismo lenguaje. 
+	Esto permite, en web.config, detallar las subcarpetas donde hay código pero no del tipo que es
+5. Examinador de objetos.
+6. Propiedades del sitio. Página por defecto de la aplicación vs. documento por defecto del servidor IIS.
+7. Rutas virtuales y físicas.
+
+
+Ejecutar en el servidor de producción IIS.

@@ -1,0 +1,4 @@
+﻿
+Esta clase puede completarse con métodos para detectar si todos los elementos de un array son del mismo
+tipo, para realizar la diferencia, la intersección y el producto cartesiano, etc.
+

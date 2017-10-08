@@ -1,0 +1,4 @@
+1.Opción volver a la pagina
+2.Gestione los errores a nivel pagina (posibilidad de volver a la pagina inicial)
+3.Si alguno de los coeficientes se deja vacio anular la devolucion del boton
+4.CheckBox que posibilita trabajar solo con soluciones reales.

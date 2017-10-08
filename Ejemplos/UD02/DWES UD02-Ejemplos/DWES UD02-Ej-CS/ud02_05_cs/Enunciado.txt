@@ -1,0 +1,16 @@
+﻿1. Paso de información entre páginas - primera aproximación -.
+Las siguientes opciones están disponibles incluso si la página de origen 
+está en una aplicación Web ASP.NET diferente que la página de destino 
+o si la página de origen no es una página Web ASP.NET:
+
+•	Usar una cadena de consulta.
+
+•	Obtener información de HTTP POST de la página de origen.
+
+
+Objetivo.
+
+- Comprobar que la página que nos invoca es la deseada.
+- Detectar el modo de envío de los datos.
+- Recuperar y procesar datos.
+- Devolver respuesta al cliente.

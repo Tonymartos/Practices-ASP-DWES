@@ -1,0 +1,9 @@
+Ver desencadenadores y SP.
+
+Las cuentas no se pueden borrar.
+
+El alta de una cuenta=> Cuentas, Ahorro/Corriente y Contratacion.
+
+El alta de un movimiento debe realizarse a través del correspondiente SP.
+
+cLimite de 0, implica sin límite.

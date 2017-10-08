@@ -1,0 +1,7 @@
+Funcion que acepta una cadena de caracteres y opcionalmente, un caracter individual y el valor que devuelve es:
+	
+	si no se le pasa el caracter opcional el valor que devuelve es un valor booleano.
+	
+	si le pasa el caracter, cuenta los caracteres que se repite en la cadena de caracteres.
+
+
