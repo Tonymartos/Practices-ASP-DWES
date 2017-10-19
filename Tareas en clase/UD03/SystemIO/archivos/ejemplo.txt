@@ -1,0 +1,29 @@
+﻿Public Class Validar
+
+    Protected Shared Function DigitoControl(ByVal valor As String) As Byte
+        ' A partir de un número de diez cifras obtiene los dígitos de control correspondientes.
+        Dim valores() = {1, 2, 4, 8, 5, 10, 9, 7, 3, 6}
+        Dim control As Integer = 0
+        Dim i As Integer = 0
+        For i = 0 To 9
+            control += Int16.Parse(valor(i)) * valores(i)
+        Next
+        control = 11 - (control Mod 11)
+        If control = 11 Then
+            control = 0
+        ElseIf control = 10 Then
+            control = 1
+        End If
+        Return control
+    End Function
+
+    Public Shared Function CCC(ByVal banco As String, ByVal oficina As String, ByVal DC As String, ByVal cuenta As String) As Boolean
+        Dim ok As Boolean = False
+        Dim bancoOficina As String = "00" & banco & oficina
+        Dim DCa As Byte = DigitoControl(bancoOficina)
+        Dim DCb As Byte = DigitoControl(cuenta)
+        If DCa & DCb = DC Then ok = True
+        Return ok
+    End Function
+
+End Class
