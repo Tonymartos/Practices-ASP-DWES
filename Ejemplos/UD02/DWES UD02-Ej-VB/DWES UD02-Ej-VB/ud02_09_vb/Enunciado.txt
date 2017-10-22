@@ -1,0 +1,4 @@
+﻿
+1. Introducción al Control de errores. Evento Page_Error.
+2. Asignación de código a un control asp en el lado del cliente.
+3. Anulación del postback de un botón asp.

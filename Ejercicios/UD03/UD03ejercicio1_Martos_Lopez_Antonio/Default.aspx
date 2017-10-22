@@ -15,7 +15,6 @@
         <asp:Label ID="Ldos" runat="server" Text="Introduce la letra: "></asp:Label>
         <asp:TextBox ID="TBdos" MaxLength="1" runat="server"></asp:TextBox>
         <asp:Button ID="Buno" runat="server" Text="Button" />
-
     </div>
     </form>
 </body>

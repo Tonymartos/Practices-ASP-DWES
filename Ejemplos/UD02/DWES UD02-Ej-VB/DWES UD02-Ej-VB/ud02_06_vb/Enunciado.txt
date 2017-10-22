@@ -1,0 +1,7 @@
+El archivo Global.asax.
+
+1. Utilidad y ubicación del archivo Global.asax.
+2. Directivas de aplicación.
+2. Eventos de aplicación.
+3. Variables de sesión y de aplicación.
+4. El objeto intrínseco Server.

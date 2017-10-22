@@ -8,9 +8,8 @@ Partial Class _Default
         contarcadena(frase, letra)
     End Sub
 
-    Private Function contarcadena(ByRef cadena As String, Optional caracter As Char = Nothing) As Object
+    Private Function contarcadena(ByVal cadena As String, Optional caracter As Char = Nothing) As Object
         Dim encontrado As Boolean
-
         If caracter = Nothing Then
             encontrado = False
             GoTo salir

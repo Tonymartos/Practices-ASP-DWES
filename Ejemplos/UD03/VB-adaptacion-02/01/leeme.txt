@@ -1,4 +1,0 @@
-﻿
-Agregar referencia Net Framework->System.Numerics
-
-Para tener acceso a sus clases. Generar Sitio Web para actualizar referencias (o Compilar solución)
